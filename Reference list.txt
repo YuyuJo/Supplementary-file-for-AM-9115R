@@ -1,0 +1,110 @@
+Literatures for collecting apatite compositional data are as follows:
+
+Adlakha, E., J. Hanley, H. Falck, and B. Boucher (2018), The origin of mineralizing hydrothermal fluids recorded in apatite chemistry at the Cantung W–Cu skarn deposit, NWT, Canada, European Journal of Mineralogy, 30(6), 1095-1113, doi:10.1127/ejm/2018/0030-2780.
+
+Bea, F., and P. Montero (1999), Behavior of accessory phases and redistribution of Zr, REE, Y, Th, and U during metamorphism and partial melting of metapelites in the lower crust: An example from the Kinzigite Formation of Ivrea-Verbano, NW Italy, Department of Mineralogy and Petrology, Campus Fuentenueva, University of Granada, 18002 Granada, Spain;C. I. C. Edificio Mecenas, Campus Fuentenueva, Unive, 63(7-8), 1133-1153, doi:10.1016/s0016-7037(98)00292-0.
+
+Bea F., Pereira M.D., and Stroh A. (1994), Mineral/leucosome trace-element partitioning in a peraluminous migmatite (a laser ablation-ICP-MS study) Chemical Geology, 117(1-4), 291-312, doi:10.1016/0009-2541(94)90133-3.
+
+Belousova, E. A., S. Walters, W. L. Griffin, and S. Y. O'Reilly (2001), Trace-element signatures of apatites in granitoids from the Mt Isa Inlier, northwestern Queensland, 48(4), 603-619, doi:https://doi.org/10.1046/j.1440-0952.2001.00879.x.
+
+Belousova, E. A. a., W. L. a. Griffin, b, S. Y. a. O'Reilly, and N. I. a. Fisher (2002), Apatite as an indicator mineral for mineral exploration: trace-element compositions and their relationship to host rock type., Journal for Geochemical Exploration, 76(No.1), 45, doi:10.1016/s0375-6742(02)00204-2.
+
+Bonyadi, Z., G. J. Davidson, B. Mehrabi, S. Meffre, and F. Ghazban (2011), Significance of apatite REE depletion and monazite inclusions in the brecciated Se–Chahun iron oxide–apatite deposit, Bafq district, Iran: Insights from paragenesis and geochemistry, Chemical Geology, 281(3-4), 253-269, doi:10.1016/j.chemgeo.2010.12.013.
+
+Bruand, E., C. Storey, M. Fowler, and E. Heilimo (2019), Oxygen isotopes in titanite and apatite, and their potential for crustal evolution research, Geochim Cosmochim Ac, 255, 144-162, doi:10.1016/j.gca.2019.04.002.
+
+Cao, J., X. Yang, S. Yang, C. Zhong, and Y. Wang (2022), Records of apatite for multiple injections of magmas in adakitic plutons: A case study of Mesozoic plutons in the Shatanjiao region of the Tongling ore cluster, south China, Journal of Asian Earth Sciences, 242, doi:10.1016/j.jseaes.2022.105507.
+
+Cao, M., G. Li, K. Qin, E. Y. Seitmuratova, and Y. Liu (2012), Major and Trace Element Characteristics of Apatites in Granitoids from Central Kazakhstan: Implications for Petrogenesis and Mineralization, Resour Geol, 62(1), 63-83, doi:10.1111/j.1751-3928.2011.00180.x.
+CG, W., Y. LQ, and H. WY (2017), Apatite trace element and halogen compositions from the Beiya gold deposit, in western Yunnan and geological significance, Acta Petrol Sin, 33(7), 2213-2224.
+
+Chakhmouradian, A. R., E. P. Reguir, A. N. Zaitsev, C. Couëslan, C. Xu, J. Kynický, A. H. Mumin, and P. Yang (2017), Apatite in carbonatitic rocks: Compositional variation, zoning, element partitioning and petrogenetic significance, Lithos, 274-275, 188-213, doi:10.1016/j.lithos.2016.12.037.
+
+Chen, L., and Y. Zhang (2018), In situ major-, trace-elements and Sr-Nd isotopic compositions of apatite from the Luming porphyry Mo deposit, NE China: Constraints on the petrogenetic-metallogenic features, Ore Geology Reviews, 94, 93-103, doi:10.1016/j.oregeorev.2018.01.026.
+
+Chen, X., H. Liang, J. Zhang, W. Huang, L. Ren, and Y. Zou (2020), Geochemical characteristics and oxidation states of the Xietongmen ore‐bearing porphyries: Implication for the genetic types of the Xietongmen No. I and No. II deposits, southern Tibet, Geological Journal, 55(6), 4691-4712, doi:10.1002/gj.3712.
+
+Chu, M.-F., K.-L. Wang, W. L. Griffin, S.-L. Chung, S. Y. O’Reilly, N. J. Pearson, and Y. Iizuka (2009), Apatite Composition: Tracing Petrogenetic Processes in Transhimalayan Granitoids, Journal of Petrology, 50(10), 1829-1855, doi:10.1093/petrology/egp054.
+
+Dill, H. G. (1994), Can REE patterns and U-Th variations be used as a tool to determine the origin of apatite in clastic rocks? , Sedimentary Geology, 92(3-4), 175-196, doi:10.1016/0037-0738(94)90105-8.
+
+El Korh, A., S. T. Schmidt, A. Ulianov, and S. Potel (2009), Trace Element Partitioning in HP–LT Metamorphic Assemblages during Subduction-related Metamorphism, Ile de Groix, France: a Detailed LA-ICPMS Study, Journal of Petrology, 50(6), 1107-1148, doi:10.1093/petrology/egp034.
+
+Gao, X., L. Yang, C. Wang, W. He, X. Bao, and S. Zhang (2020), Halogens and trace elements of apatite from Late Mesozoic and Cenozoic porphyry Cu-Mo-Au deposits in SE Tibet, China: Constraints on magmatic fertility and granitoid petrogenesis, Journal of Asian Earth Sciences, 203, doi:10.1016/j.jseaes.2020.104552.
+
+Glorie, S., G. Jepson, D. Konopelko, R. Mirkamalov, F. Meeuws, S. Gilbert, J. Gillespie, A. Collins, W. Xiao, and S. Dewaele (2019), Thermochronological and geochemical footprints of post-orogenic fluid alteration recorded in apatite: implications for mineralisation in the Uzbek Tian Shan, Gondwana Research, 71, 1-15.
+
+Henrichs, I. A., G. O'Sullivan, D. M. Chew, C. Mark, M. G. Babechuk, C. McKenna, and R. Emo (2018), The trace element and U-Pb systematics of metamorphic apatite, Chemical Geology, 483, 218-238, doi:10.1016/j.chemgeo.2017.12.031.
+
+Hoshino, M., Y. Watanabe, and Y. Kon (2017), Implication of Apatite and Anhydrite for Formation of an Iron-Oxide-Apatite(IOA) Rare Earth Element Prospect, Benjamin River, Canada, Resour Geol, 67(4), 361-383, doi:10.1111/rge.12142.
+
+Hsieh, P.-S., C.-H. Chen, H.-J. Yang, and C.-Y. Lee (2008), Petrogenesis of the Nanling Mountains granites from South China: Constraints from systematic apatite geochemistry and whole-rock geochemical and Sr–Nd isotope compositions, Journal of Asian Earth Sciences, 33(5-6), 428-451, doi:10.1016/j.jseaes.2008.02.002.
+
+Ihlen, P. M., H. Schiellerup, H. Gautneb, and Ø. Skår (2014), Characterization of apatite resources in Norway and their REE potential — A review, Ore Geology Reviews, 58, 126-147, doi:10.1016/j.oregeorev.2013.11.003.
+
+Joosu, L., A. Lepland, T. Kreitsmann, K. Üpraus, N. M. W. Roberts, P. Paiste, A. P. Martin, and K. Kirsimäe (2016), Petrography and the REE-composition of apatite in the Paleoproterozoic Pilgujärvi Sedimentary Formation, Pechenga Greenstone Belt, Russia, Geochim Cosmochim Ac, 186, 135-153, doi:10.1016/j.gca.2016.04.043.
+
+La Cruz, N. L., J. T. Ovalle, A. C. Simon, B. A. Konecke, F. Barra, M. Reich, M. Leisen, and T. M. Childress (2020), The Geochemistry of Magnetite and Apatite from the El Laco Iron Oxide-Apatite Deposit, Chile: Implications for Ore Genesis, Econ Geol, 115(7), 1461-1491, doi:10.5382/econgeo.4753.
+
+Li, Q., X. Sun, Y. Lu, F. Wang, and J. Hao (2021), Apatite and zircon compositions for Miocene mineralizing and barren intrusions in the Gangdese porphyry copper belt of southern Tibet: Implication for ore control, Ore Geology Reviews, 139, 104474, doi:https://doi.org/10.1016/j.oregeorev.2021.104474.
+
+Liu, L., W. Zhang, C. Jin, and W. T. Chen (2021), Mineralogical and geochemical constraints on the origin of the variable REE enrichments in the Kangdian IOCG province, SW China, Ore Geology Reviews, 138, doi:10.1016/j.oregeorev.2021.104381.
+
+Long, X.-Y., J. Tang, W.-L. Xu, C.-Y. Sun, J.-P. Luan, S. Xiong, and X.-M. Zhang (2023), Trace element and Nd isotope analyses of apatite in granitoids and metamorphosed granitoids from the eastern Central Asian Orogenic Belt: Implications for petrogenesis and post-magmatic alteration, Geoscience Frontiers, 14(2), doi:10.1016/j.gsf.2022.101517.
+
+Lupulescu, M. V., J. M. Hughes, J. R. Chiarenzelli, and D. G. Bailey (2017), Texture, Crystal Structure, and Composition of Fluorapatites From Iron Oxide-Apatite (Ioa) Deposits, Eastern Adirondack Mountains, New York, The Canadian Mineralogist, 55(3), 399-417, doi:10.3749/canmin.1600057.
+
+Mao, M., A. S. Rukhlov, S. M. Rowins, J. Spence, and L. A. Coogan (2016), Apatite Trace Element Compositions: A Robust New Tool for Mineral Exploration, Econ Geol, 111(5), 1187-1222, doi:10.2113/econgeo.111.5.1187 %J Economic Geology.
+
+Meng, X., et al. (2021), Oxidized sulfur-rich arc magmas formed porphyry Cu deposits by 1.88 Ga, Nat Commun, 12(1), 2189, doi:10.1038/s41467-021-22349-z.
+
+Mercer, C. N., K. E. Watts, and J. Gross (2020), Apatite trace element geochemistry and cathodoluminescent textures—A comparison between regional magmatism and the Pea Ridge IOAREE and Boss IOCG deposits, southeastern Missouri iron metallogenic province, USA, Ore Geology Reviews, 116, doi:10.1016/j.oregeorev.2019.103129.
+
+Nishizawa, M., N. Takahata, K. Terada, T. Komiya, Y. Ueno, and Y. Sano (2005), Rare earth element, lead, carbon and nitrogen geochemistry of apatite-bearing metasediments from ~3.8 Ga Isua supracrustal belt, West Greenland, International Geology Review, 47(9), 952-970, doi:10.2747/0020-6814.47.9.952.
+
+Nutman, A. P. (2007), Apatite recrystallisation during prograde metamorphism, Cooma, southeast Australia: implications for using an apatite - graphite association as a biotracer in ancient metasedimentary rocks, Australian Journal of Earth Sciences, 54(8), 1023-1032, doi:10.1080/08120090701488321.
+O'Reilly, S. Y., and W. L. Griffin (2000), Apatite in the mantle: implications for metasomatic processes and high heat production in Phanerozoic mantle, Lithosphere, 53(3), 217-232, doi:10.1016/s0024-4937(00)00026-8.
+
+O'Reilly, S. Y., and W. L. Griffin (2000), Apatite in the mantle: implications for metasomatic processes and high heat production in Phanerozoic mantle, Lithosphere, 53(3), 217-232, doi:10.1016/s0024-4937(00)00026-8.
+
+Palma, G., F. Barra, M. Reich, V. Valencia, A. C. Simon, J. Vervoort, M. Leisen, and R. Romero (2019), Halogens, trace element concentrations, and Sr-Nd isotopes in apatite from iron oxide-apatite (IOA) deposits in the Chilean iron belt: Evidence for magmatic and hydrothermal stages of mineralization, Geochim Cosmochim Ac, 246, 515-540, doi:10.1016/j.gca.2018.12.019.
+
+Qu, P., N.-B. Li, H.-C. Niu, Q. Shan, Q. Weng, and X.-C. Zhao (2021), Difference in the nature of ore-forming magma between the Mesozoic porphyry Cu-Mo and Mo deposits in NE China: Records from apatite and zircon geochemistry, Ore Geology Reviews, 135, doi:10.1016/j.oregeorev.2021.104218.
+
+Sha, L. K., and B. W. Chappell (1999), Apatite chemical composition, determined by electron microprobe and laser-ablation inductively coupled plasma mass spectrometry, as a probe into granite petrogenesis, Geochim Cosmochim Ac, 63(22), 3861-3881, doi:10.1016/s0016-7037(99)00210-0.
+
+Sun, C.-Y., P. A. Cawood, W.-L. Xu, X.-M. Zhang, J. Tang, Y. Li, Z.-X. Sun, and T. Xu (2022), In situ geochemical composition of apatite in granitoids from the eastern Central Asian Orogenic Belt: A window into petrogenesis, Geochim Cosmochim Ac, 317, 552-573, doi:10.1016/j.gca.2021.10.028.
+
+Tang, M., X.-L. Wang, X.-S. Xu, C. Zhu, T. Cheng, and Y. Yu (2012), Neoproterozoic subducted materials in the generation of Mesozoic Luzong volcanic rocks: Evidence from apatite geochemistry and Hf-Nd isotopic decoupling, Gondwana Research, 21(1), 266-280, doi:10.1016/j.gr.2011.05.009.
+
+Tang, P., et al. (2021), Genesis of the Lakang'e porphyry Mo (Cu) deposit, Tibet: Constraints from geochemistry, geochronology, Sr-Nd-Pb-Hf isotopes, zircon and apatite, Lithos, 380-381, doi:10.1016/j.lithos.2020.105834.
+
+Tian, F., Leng, C.B., Zhang, X.C., Tian, Z.D., Zhang, W. (2021), The key role of volatile-rich magma replenishment in the formation of porphyry Cu-Mo deposits: a case study of Gangjiang porphyry Cu-Mo deposit, Tibet, Acta Petroligica Sinca, 37, 2889-2909, doi:10.18654/1000-0569/2021.09.19.
+
+Tollari, N., S. Barnes, R. Cox, and H. Nabil (2008), Trace element concentrations in apatites from the Sept-Îles Intrusive Suite, Canada — Implications for the genesis of nelsonites, Chemical Geology, 252(3-4), 180-190, doi:10.1016/j.chemgeo.2008.02.016.
+
+Wang, C.G., L. Yang, and W. He (2017), Apatite trace element and halogen compositions from the Beiya gold deposit, in western Yunnan and geological significance, Acta Petrol Sin, 33(7), 2213-2224.
+
+Wu, S., Y. Zheng, and X. Sun (2016), Subduction metasomatism and collision-related metamorphic dehydration controls on the fertility of porphyry copper ore-forming high Sr/Y magma in Tibet, Ore Geology Reviews, 73, 83-103, doi:10.1016/j.oregeorev.2015.10.023.
+
+Xiao, B., K. Qin, G. Li, J. Li, D. Xia, L. Chen, and J. Zhao (2012), Highly Oxidized Magma and Fluid Evolution of Miocene Qulong Giant Porphyry Cu-Mo Deposit, Southern Tibet, China, Resour Geol, 62(1), 4-18, doi:10.1111/j.1751-3928.2011.00177.x.
+
+Xie, F., J. Tang, Y. Chen, and X. Lang (2018), Apatite and zircon geochemistry of Jurassic porphyries in the Xiongcun district, southern Gangdese porphyry copper belt: Implications for petrogenesis and mineralization, Ore Geology Reviews, 96, 98-114, doi:10.1016/j.oregeorev.2018.04.013.
+
+Xu, L.-L., X.-W. Bi, X.-C. Zhang, M.-L. Huang, and G. Liu (2023), Mantle contribution to the generation of the giant Jinduicheng porphyry Mo deposit, Central China: New insights from combined in-situ element and isotope compositions of zircon and apatite, Chemical Geology, 616, doi:10.1016/j.chemgeo.2022.121238.
+
+Xu, W., H. Fan, F. Hu, M. Santosh, K. Yang, and T. Lan (2015), In situ chemical and Sr–Nd–O isotopic compositions of apatite from the Tongshi intrusive complex in the southern part of the North China Craton: Implications for petrogenesis and metallogeny, Journal of Asian Earth Sciences, 105, 208-222, doi:10.1016/j.jseaes.2015.03.043.
+
+Yang, J.-H., L.-F. Kang, J.-T. Peng, H. Zhong, J.-F. Gao, and L. Liu (2018), In-situ elemental and isotopic compositions of apatite and zircon from the Shuikoushan and Xihuashan granitic plutons: Implication for Jurassic granitoid-related Cu-Pb-Zn and W mineralization in the Nanling Range, South China, Ore Geology Reviews, 93, 382-403, doi:10.1016/j.oregeorev.2017.12.023.
+
+Zafar, T., C.-B. Leng, X.-C. Zhang, and H. U. Rehman (2019), Geochemical attributes of magmatic apatite in the Kukaazi granite from western Kunlun orogenic belt, NW China: Implications for granite petrogenesis and Pb-Zn (-Cu-W) mineralization, Journal of Geochemical Exploration, 204, 256-269, doi:10.1016/j.gexplo.2019.06.005.
+
+Zeng, L.-P., X.-F. Zhao, X.-C. Li, H. Hu, and C. McFarlane (2016), In situ elemental and isotopic analysis of fluorapatite from the Taocun magnetite-apatite deposit, Eastern China: Constraints on fluid metasomatism, American Mineralogist, 101(11), 2468-2483, doi:10.2138/am-2016-5743.
+
+Zhang, H., Liang, H.Y., Zhao, Y., Ling, M.X., Sun, W.D. (2018), Investigation of the geochemical characteristics of apatite trace elements from the Yulong porphyry copper belt, Eastern Tibet, Geochimica, 47, 14-32.
+
+Zhang, L., Y. Hu, J. Deng, J. Wang, K. Wang, Q. Sui, Y. Chen, K. Wu, and W. Sun (2021), Genesis and mineralization potential of the Late Cretaceous Chemen granodioritic intrusion in the southern Gangdese magmatic belt, Tibet, Journal of Asian Earth Sciences, 217, doi:10.1016/j.jseaes.2021.104829.
+
+Zirner, A. L. K., M. A. W. Marks, T. Wenzel, D. E. Jacob, and G. Markl (2015), Rare earth elements in apatite as a monitor of magmatic and metasomatic processes: The Ilímaussaq complex, South Greenland, Lithos, 228-229, 12-22, doi:10.1016/j.lithos.2015.04.013.
+
